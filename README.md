@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Lummer-Li/Lummer-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Hi there 👋
+
+- 🔭 I’m an Eng.D. student at BJTU, who focuses on unsupervised learning, multi-view clustering, and deep clustering.
+- 👯 I'm good at working with Python/Java. 
+- 📫 Contact: pengyuanli@bjtu.edu.cn
+
+[![MyStats](https://github-readme-stats.vercel.app/api?username=Lummer-Li)]()
