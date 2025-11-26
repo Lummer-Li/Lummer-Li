@@ -23,13 +23,6 @@ Here are some ideas to get you started:
 
 <!--[![MyStats](https://lummer-li.github.io/card?username=Lummer-Li)]()-->
 
-<iframe
-    src="https://lummer-li.github.io/card?username=Lummer-Li";
-    width="500";
-    height="300";
-    frameborder="0";
-    scrolling="no";
-    style="border-radius: 16px; background-color: #ffffff;">
-</iframe>
+<iframe src="https://lummer-li.github.io/card?username=Lummer-Li" width="100%" height="320" frameborder="0" style="border-radius:12px; background: transparent;"></iframe>
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lummer-Li&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
