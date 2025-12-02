@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m an Ph.D. student at BJTU, who focuses on unsupervised learning, multi-view clustering, and deep clustering.
+- 🔭 I’m a Ph.D. student at BJTU, who focuses on unsupervised learning, multi-view clustering, and deep clustering.
 - 👯 I'm good at working with Python/Java. 
 - 📫 Contact: pengyuanli@bjtu.edu.cn
 
